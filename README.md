@@ -38,4 +38,4 @@ Since this project is static, you can open `index.html` directly in your browser
 
 ## License
 
-All rights reserved © 2024 Student Portfolio.
+All rights reserved © 2024 Elbert Portofolio and 2023 Microsoft 365 Certified: Modern Desktop Administrator Associate
